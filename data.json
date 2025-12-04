@@ -1,0 +1,86 @@
+{
+    "formatted_address": "463 Blossom Hill Rd G3, San Jose, CA 95123, USA",
+    "formatted_phone_number": "(408) 781-8015",
+    "geometry": {
+        "location": {
+            "lat": 37.252682,
+            "lng": -121.8329072
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 37.2540241302915,
+                "lng": -121.8315394697085
+            },
+            "southwest": {
+                "lat": 37.2513261697085,
+                "lng": -121.8342374302915
+            }
+        }
+    },
+    "name": "Alpha Auto Center",
+    "rating": 4.1,
+    "reviews": [
+        {
+            "author_name": "Joseph Shemeta",
+            "author_url": "https://www.google.com/maps/contrib/115518441763744439516/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI6QuNmIVn3QxOnGtYVsOybj2QTqyZ-KaTv5uO6le9EyNZLalJ=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "9 months ago",
+            "text": "Used for oil change and general car maintenance for more than 20 years.\n\nGood repairs, good prices, Korean and English spoken.",
+            "time": 1739034392,
+            "translated": false
+        },
+        {
+            "author_name": "Yanada you",
+            "author_url": "https://www.google.com/maps/contrib/102855701800479231400/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4DUhkF_S6lRR7BQ0UCynWZQOGnyRPdn-Xu1ER1wdQvvAVVA=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "relative_time_description": "a year ago",
+            "text": "He gave me a very reasonable estimate and great services.\nIf you're looking for an honest and skillful repair shop, this is it.",
+            "time": 1720569791,
+            "translated": false
+        },
+        {
+            "author_name": "David Pham",
+            "author_url": "https://www.google.com/maps/contrib/118424270072183450863/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKCcxD55K5fwwsKjfg9T6wwwijysrqDXW-ZlP0MitWWdu_QA=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 1,
+            "relative_time_description": "a year ago",
+            "text": "The owner is NOT really responding on customer's call or text in a timely manner.   Also, the way he talks to the customer is rude and makes me feel bad.",
+            "time": 1713923562,
+            "translated": false
+        },
+        {
+            "author_name": "Derik Dang",
+            "author_url": "https://www.google.com/maps/contrib/100808711665600823875/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVT3DThbq1hiiDHXU75wjZ-ly4kHjNH3MyyPACAP0VwVNHppmuT=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "The owner is honest and the repair cost is very reasonable.  (replaced front-brake pads and oil changed)",
+            "time": 1671322175,
+            "translated": false
+        },
+        {
+            "author_name": "Valente V",
+            "author_url": "https://www.google.com/maps/contrib/100829850564000645916/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRXk5aIWOsLo7Nis8LzCATvDXJx0cv0qEmT5V2wlf68AN5JeY=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "3 years ago",
+            "text": "I was in and out very quickly, the technician was helpful and honest about the work that my car needed done.",
+            "time": 1659122351,
+            "translated": false
+        }
+    ],
+    "user_ratings_total": 14,
+    "business_type": "auto_shop"
+}
